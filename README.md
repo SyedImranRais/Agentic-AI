@@ -1,2 +1,3 @@
 # Agentic-AI
-Auther - Syed Imran Rais
+<br>
+Author - Syed Imran Rais
